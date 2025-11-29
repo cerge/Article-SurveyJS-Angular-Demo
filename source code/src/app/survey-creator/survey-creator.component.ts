@@ -3,9 +3,6 @@ import { CommonModule } from '@angular/common';
 import { SurveyCreatorModel } from 'survey-creator-core';
 import { SurveyCreatorModule } from 'survey-creator-angular';
 import { SurveyService } from '../survey.service';
-import { slk } from "survey-core";
-
-slk("NDJiZWUxOTktM2M0ZC00MDk2LWE4ODYtOGU1ZTM0ZTFkYjc4OzE9MjAyNi0xMi0wNQ=="); 
 
 
 @Component({
